@@ -56,7 +56,7 @@ Job-Portal/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Job-Portal.git
+git clone https://github.com/saurabh0772/Job-Portal.git
 cd Job-Portal
 ```
 
